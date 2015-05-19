@@ -16,6 +16,7 @@
         <module>basic/first-angularjs-directives</module>        
         <module>basic/first-angularjs-directives-html5</module>        
         <module>basic/first-angularjs-expression</module>        
+        <module>basic/first-angularjs-controller</module>        
     </modules>
     
     <properties>
