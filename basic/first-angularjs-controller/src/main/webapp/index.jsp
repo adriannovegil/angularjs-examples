@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My first AngularJS Expression</title>
+        <title>My first AngularJS Controller</title>
         <!-- Anhadimos la librería de AngularJS -->
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
     </head>
