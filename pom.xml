@@ -14,6 +14,7 @@
     <modules>
         <module>basic/hello-world</module>        
         <module>basic/first-angularjs-directives</module>        
+        <module>basic/first-angularjs-directives-html5</module>        
     </modules>
     
     <properties>
