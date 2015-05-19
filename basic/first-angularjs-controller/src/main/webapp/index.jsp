@@ -8,10 +8,11 @@
     <body>
         <p>Try to change the names.</p>
         <!-- Definimos un formulario en nuestra web -->
-        <!-- Inicializamos la aplicación AngularJS con ng-app y le asociamos un 
-        controller al formulario "myCtrl"
+        <!-- Inicializamos la aplicación AngularJS mediante el uso de la directiva
+        ng-app y le asociamos un controller mediante la directiva ng-controller
+        a la que le especificamos el nombre del mismo "myCtrl"
         Con ng-model hacemos un binding de los valores de los input a variables
-        que podamos gestionar en nuestro controler.-->
+        de aplicación.-->
         <div ng-app="myApp" ng-controller="myCtrl">
             First Name: <input type="text" ng-model="firstName"><br>
             Last Name: <input type="text" ng-model="lastName"><br>

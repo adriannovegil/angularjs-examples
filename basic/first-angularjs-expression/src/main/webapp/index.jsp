@@ -7,6 +7,9 @@
     </head>
     <body>
         <div ng-app="">
+            <!-- AngularJS permite la definición de expresiones, por ejemplo, de
+            tipo aritmético expresadas entre la doble llave. A continuación se
+            muestra un ejemplo de esto.-->
             <p>My first expression: {{ 5 + 5}}</p>
         </div>
     </body>
