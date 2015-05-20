@@ -21,6 +21,7 @@
         <module>expressions/expression-without-ng-app</module>        
         <module>expressions/expression-with-numbers</module>        
         <module>expressions/using-ng-bind-with-numbers</module>        
+        <module>expressions/expression-with-strings</module>        
     </modules>
     
     <properties>
