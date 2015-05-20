@@ -23,6 +23,7 @@
         <module>expressions/using-ng-bind-with-numbers</module>        
         <module>expressions/expression-with-strings</module>        
         <module>expressions/using-ng-bind-with-strings</module>        
+        <module>expressions/expression-with-objects</module>        
     </modules>
     
     <properties>
