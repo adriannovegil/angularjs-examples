@@ -26,6 +26,7 @@
         <module>expressions/expression-with-objects</module>        
         <module>expressions/using-ng-bind-with-objects</module>        
         <module>expressions/expression-with-arrays</module>        
+        <module>expressions/using-ng-bind-with-arrays</module>        
     </modules>
     
     <properties>
