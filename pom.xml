@@ -19,6 +19,7 @@
         <module>basic/first-angularjs-controller</module>        
         <module>expressions/a-simple-expression</module>        
         <module>expressions/expression-without-ng-app</module>        
+        <module>expressions/expression-with-numbers</module>        
     </modules>
     
     <properties>
