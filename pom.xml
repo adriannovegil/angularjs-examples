@@ -24,6 +24,7 @@
         <module>expressions/expression-with-strings</module>        
         <module>expressions/using-ng-bind-with-strings</module>        
         <module>expressions/expression-with-objects</module>        
+        <module>expressions/using-ng-bind-with-objects</module>        
     </modules>
     
     <properties>
