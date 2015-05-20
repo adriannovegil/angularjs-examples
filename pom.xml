@@ -20,6 +20,7 @@
         <module>expressions/a-simple-expression</module>        
         <module>expressions/expression-without-ng-app</module>        
         <module>expressions/expression-with-numbers</module>        
+        <module>expressions/using-ng-bind-with-numbers</module>        
     </modules>
     
     <properties>
