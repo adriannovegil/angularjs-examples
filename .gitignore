@@ -42,3 +42,5 @@
 /directives/the-ng-model-directive/target/
 /directives/the-ng-model-directive-with-arrays/target/
 /directives/the-ng-model-directive-with-objects/target/
+/controllers/the-ng-model-directive-with-objects/target/
+/controllers/angularjs-controller/target/
