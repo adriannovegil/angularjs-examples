@@ -32,6 +32,7 @@
         <module>directives/the-ng-model-directive-with-arrays</module>        
         <module>directives/the-ng-model-directive-with-objects</module>        
         <module>controllers/angularjs-controller</module>        
+        <module>controllers/controller-properties</module>        
     </modules>
     
     <properties>

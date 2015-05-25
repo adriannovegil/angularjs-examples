@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>AngularJS Controller</title>
+        <title>Controller Properties</title>
         <!-- Anhadimos la librería de AngularJS -->
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
     </head>
@@ -18,16 +18,16 @@
         nuestra vista, el controlador debemos añadirlo por encima del contenido 
         html en el cual queremos que trabaje.
         -->
-        <div ng-app="myApp" ng-controller="myCtrl">
+        <div ng-app="myApp" ng-controller="personCtrl">
             <!-- Hacemos el bind de las variables firstName y lastName con los 
             controller HTML. -->
             First Name: <input type="text" ng-model="firstName"><br>
             Last Name: <input type="text" ng-model="lastName"><br>
             <br>
-            <!-- Evaluamos la expresión que concatena el valor de las variables. -->
-            Full Name: {{firstName + " " + lastName}}
+            <!-- Evaluamos la ejecucion de la función fullName mediante el uso
+            de la doble llave. -->
+            Full Name: {{fullName()}}
         </div>
-        <!-- Implementación del controller. -->
         <script>
             /**
              * Crear un controlador es bastante sencillo, tan solo basta con 
@@ -45,11 +45,15 @@
              * });
              */
             var app = angular.module('myApp', []);
-            // Inicializamos las variables firstName y lastName.
-            app.controller('myCtrl', function ($scope) {
-                // Asignamos valores a las variable.
+            app.controller('personCtrl', function ($scope) {
+                // Asociamos valor a las variables firstName y lastName.
                 $scope.firstName = "John";
                 $scope.lastName = "Doe";
+                // Definimos la funcion fullName que retorna el resultado de la
+                // concatenación de las variables firstName y lastName.
+                $scope.fullName = function () {
+                    return $scope.firstName + " " + $scope.lastName;
+                }
             });
         </script>
     </body>
