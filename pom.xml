@@ -30,6 +30,7 @@
         <module>directives/angularjs-directives</module>        
         <module>directives/the-ng-model-directive</module>        
         <module>directives/the-ng-model-directive-with-arrays</module>        
+        <module>directives/the-ng-model-directive-with-objects</module>        
     </modules>
     
     <properties>
