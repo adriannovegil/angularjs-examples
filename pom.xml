@@ -27,6 +27,7 @@
         <module>expressions/using-ng-bind-with-objects</module>        
         <module>expressions/expression-with-arrays</module>        
         <module>expressions/using-ng-bind-with-arrays</module>        
+        <module>directives/angularjs-directives</module>        
     </modules>
     
     <properties>
