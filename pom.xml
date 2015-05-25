@@ -28,6 +28,7 @@
         <module>expressions/expression-with-arrays</module>        
         <module>expressions/using-ng-bind-with-arrays</module>        
         <module>directives/angularjs-directives</module>        
+        <module>directives/the-ng-model-directive</module>        
     </modules>
     
     <properties>
