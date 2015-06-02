@@ -47,6 +47,7 @@
         <module>tables/displaying-a-table-with-an-orderby-filter</module>        
         <module>tables/displaying-a-table-with-an-uppercase-filter</module>        
         <module>tables/displaying-a-table-with-an-index</module>        
+        <module>tables/displaying-a-table-with-even-and-odd</module>        
     </modules>
     
     <properties>
