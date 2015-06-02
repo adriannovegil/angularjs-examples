@@ -41,6 +41,7 @@
         <module>filters/expression-filter-currency</module>        
         <module>filters/expression-filter-orderby</module>        
         <module>filters/input-filters</module>        
+        <module>xmlhttprequest/reading-a-static-json-file</module>        
     </modules>
     
     <properties>
