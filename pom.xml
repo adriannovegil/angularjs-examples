@@ -38,6 +38,7 @@
         <module>controllers/controller-in-javascript-file-ii</module>        
         <module>filters/expression-filter-uppercase</module>        
         <module>filters/expression-filter-lowercase</module>        
+        <module>filters/expression-filter-currency</module>        
     </modules>
     
     <properties>
