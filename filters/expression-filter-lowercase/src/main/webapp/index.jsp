@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Expression Filter Uppercase</title>
+        <title>Expression Filter Lowercase</title>
         <!-- Anhadimos la librería de AngularJS -->
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
     </head>
@@ -26,7 +26,7 @@
             caracter de pipe (|) y el filtro.
             En este caso, el filtro convierte la cadena que lo precede a 
             mayúsculas-->
-            <p>The name is {{ lastName | uppercase }}</p>
+            <p>The name is {{ lastName | lowercase }}</p>
         </div>
         <!-- Importamos el fichero que contiene el código del controller. -->
         <script src="js/personController.js"></script>
