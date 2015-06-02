@@ -33,6 +33,7 @@
         <module>directives/the-ng-model-directive-with-objects</module>        
         <module>controllers/angularjs-controller</module>        
         <module>controllers/controller-properties</module>        
+        <module>controllers/controller-functions</module>        
     </modules>
     
     <properties>
