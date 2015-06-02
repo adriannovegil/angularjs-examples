@@ -44,6 +44,7 @@
         <module>xmlhttprequest/reading-a-static-json-file</module>        
         <module>tables/displaying-a-table</module>        
         <module>tables/displaying-a-table-with-css</module>        
+        <module>tables/displaying-a-table-with-an-orderby-filter</module>        
     </modules>
     
     <properties>
