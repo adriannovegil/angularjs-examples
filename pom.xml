@@ -34,6 +34,7 @@
         <module>controllers/angularjs-controller</module>        
         <module>controllers/controller-properties</module>        
         <module>controllers/controller-functions</module>        
+        <module>controllers/controller-in-javascript-file-i</module>        
     </modules>
     
     <properties>
