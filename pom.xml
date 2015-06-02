@@ -35,6 +35,7 @@
         <module>controllers/controller-properties</module>        
         <module>controllers/controller-functions</module>        
         <module>controllers/controller-in-javascript-file-i</module>        
+        <module>controllers/controller-in-javascript-file-ii</module>        
     </modules>
     
     <properties>
