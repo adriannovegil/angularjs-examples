@@ -39,6 +39,7 @@
         <module>filters/expression-filter-uppercase</module>        
         <module>filters/expression-filter-lowercase</module>        
         <module>filters/expression-filter-currency</module>        
+        <module>filters/expression-filter-orderby</module>        
     </modules>
     
     <properties>
