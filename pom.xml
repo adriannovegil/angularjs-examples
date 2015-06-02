@@ -45,6 +45,7 @@
         <module>tables/displaying-a-table</module>        
         <module>tables/displaying-a-table-with-css</module>        
         <module>tables/displaying-a-table-with-an-orderby-filter</module>        
+        <module>tables/displaying-a-table-with-an-uppercase-filter</module>        
     </modules>
     
     <properties>
