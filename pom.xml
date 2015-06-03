@@ -57,6 +57,7 @@
         <module>modules/module-in-body</module>        
         <module>modules/module-in-files</module>        
         <module>forms/angularjs-forms</module>        
+        <module>forms/angularjs-validation</module>        
     </modules>
     
     <properties>

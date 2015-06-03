@@ -78,3 +78,5 @@
 /modules/module-in-body/target/
 /modules/module-in-files/target/
 /forms/angularjs-forms/target/
+/forms/angularjs-forms (copia)/target/
+/forms/angularjs-validation/target/
