@@ -51,6 +51,7 @@
         <module>htmldom/the-ng-disable-directive</module>        
         <module>htmldom/the-ng-show-directive</module>        
         <module>htmldom/the-ng-hide-directive</module>        
+        <module>events/events-ng-click-directive</module>        
     </modules>
     
     <properties>
