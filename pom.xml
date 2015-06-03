@@ -50,6 +50,7 @@
         <module>tables/displaying-a-table-with-even-and-odd</module>        
         <module>htmldom/the-ng-disable-directive</module>        
         <module>htmldom/the-ng-show-directive</module>        
+        <module>htmldom/the-ng-hide-directive</module>        
     </modules>
     
     <properties>
