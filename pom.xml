@@ -54,6 +54,7 @@
         <module>events/events-ng-click-directive</module>        
         <module>events/events-ng-hide-directive</module>        
         <module>events/events-ng-show-directive</module>        
+        <module>modules/module-in-body</module>        
     </modules>
     
     <properties>
