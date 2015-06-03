@@ -56,6 +56,7 @@
         <module>events/events-ng-show-directive</module>        
         <module>modules/module-in-body</module>        
         <module>modules/module-in-files</module>        
+        <module>forms/angularjs-forms</module>        
     </modules>
     
     <properties>
