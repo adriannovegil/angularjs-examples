@@ -63,6 +63,7 @@
         <module>api/angularjs-isstring</module>
         <module>api/angularjs-isnumber</module>
         <module>bootstrap/angularjs-bootstrap</module>
+        <module>bootstrap/angularjs-bootstrap-and-includes</module>
     </modules>
     
     <properties>

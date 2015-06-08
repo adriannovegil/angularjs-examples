@@ -1,0 +1,33 @@
+<h3>Users</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Edit</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Iteramos sobre la colección de datos users y para cada
+        uno de ellos creamos una fila en la tabla.-->
+        <tr ng-repeat="user in users">
+            <td>
+                <!-- Anhadimos el boton de edición en la tabla. 
+                Asociamos al evento de click la función de edición
+                a la que le pasamos como parametro el id del usuario.
+                -->
+                <button class="btn" ng-click="editUser(user.id)">
+                    <span class="glyphicon glyphicon-pencil"></span>  Edit
+                </button>
+            </td>
+            <!-- Evaluamos la expresión que muestra por pantalla el
+            nombre del usuario del registro sobre el que estamos
+            iterando.-->
+            <td>{{ user.fName}}</td>
+            <!-- Evaluamos la expresión que muestra por pantalla el
+            apellido del usuario del registro sobre el que estamos
+            iterando.-->
+            <td>{{ user.lName}}</td>
+        </tr>
+    </tbody>
+</table>
