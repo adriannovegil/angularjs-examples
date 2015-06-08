@@ -60,6 +60,7 @@
         <module>forms/angularjs-validation</module>        
         <module>api/angularjs-lowercase</module>        
         <module>api/angularjs-uppercase</module>        
+        <module>api/angularjs-isstring</module>        
     </modules>
     
     <properties>
