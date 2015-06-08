@@ -58,6 +58,7 @@
         <module>modules/module-in-files</module>        
         <module>forms/angularjs-forms</module>        
         <module>forms/angularjs-validation</module>        
+        <module>api/angularjs-lowercase</module>        
     </modules>
     
     <properties>
