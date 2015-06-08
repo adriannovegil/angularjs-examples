@@ -58,9 +58,10 @@
         <module>modules/module-in-files</module>        
         <module>forms/angularjs-forms</module>        
         <module>forms/angularjs-validation</module>        
-        <module>api/angularjs-lowercase</module>        
-        <module>api/angularjs-uppercase</module>        
-        <module>api/angularjs-isstring</module>        
+        <module>api/angularjs-lowercase</module>
+        <module>api/angularjs-uppercase</module>
+        <module>api/angularjs-isstring</module>
+        <module>api/angularjs-isnumber</module>
     </modules>
     
     <properties>
