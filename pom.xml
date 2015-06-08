@@ -62,6 +62,7 @@
         <module>api/angularjs-uppercase</module>
         <module>api/angularjs-isstring</module>
         <module>api/angularjs-isnumber</module>
+        <module>bootstrap/angularjs-bootstrap</module>
     </modules>
     
     <properties>
